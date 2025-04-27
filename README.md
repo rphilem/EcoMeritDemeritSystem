@@ -27,6 +27,6 @@ It features:
 
 ---
 
-🖼️ GUI Sample Screenshot (upload here if you want)
+🖼️ GUI Sample Screenshot (to be updated later)
 
 ---
